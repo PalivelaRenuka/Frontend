@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+    .container{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+h2{
+   text-align: center;
+   color: red;
+}
+    .contact-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .contact-section label {
+        display: inline-block;
+        width: 80px; /* Adjust for alignment */
+    }
+
+    .contact-section input {
+        width: 250px;
+        margin-bottom: 10px;
+    }
+    ul {
+    list-style-position: inside;
+    padding: 0; 
+    margin: 0 auto;
+    display: inline-block; 
+    text-align: left; 
+}
+</style>
+   <title>advertisement</title>
+</head>
+<body>
+<div class="container">
+    <h1>Great Learning</h1>
+    <p>great learning is a <b>global leading edtech</b> company for professional and higher-relevant program in blended, classroom and purely online modes across technology, data, and business domains<i>It focus on Professional training and higher education</i><b> Our Mission</b> Enabling career success through high-quality transformative learning.Its linkdin profile <a href="https://www.linkedin.com/school/great-learning/?originalSubdomain=in">greatlearning</a> </p>
+<h2>Services</h2>
+  <ul>
+      <li>Online Courses</li>
+      <li>Excel Course</li>
+      <li>Digital Marketing Course</li>
+      <li>PGP AI & ML</li>
+      <li>Career Support</li>
+      <li>Data Science</li>
+  </ul><br/>
+
+<blockquote> YOUR GOALS ARE OUR GOALS</blockquote>
+<i> Invest in yourself today. Unlock success for a lifetime.</i>
+<hr>
+
+<img src="greatl.jpg" alt="sample image" width="60%"/>
+
+<blockquote>If you want to know about the further details click the below link</blockquote>
+<a href="https://www.mygreatlearning.com/">know more</a>
+
+<hr>
+
+<div class="contact-section">
+<h2>Contact Us</h2>
+   <label for="name">Name:</label>
+   <input type="text" id="name" name="name">
+   <label for="mail">Email:</label>
+   <input type="text" id="mail" name="Mail">
+   <input type="submit" style="color:red";>
+
+</div>
+
+
+</div>
+</body>
+</html>
