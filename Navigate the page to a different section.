@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <style>
+   .container{
+    text-align: center;
+    background-color: green;
+    color: red;
+}
+
+</style>
+   <title>navigation</title>
+</head>
+<body>
+    <div class="container">
+       <h1>This is section2</h1>
+       <h3> My name is Renuka. I am currently studying bachelor's of computer applications.</h3><br/>
+       <a href="details.html">click on </a>
+    </div>
+</body>
+
+</html>
